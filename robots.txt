@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://t3b07-yd-massage-evt.pages.dev/sitemap.xml
+Sitemap: https://mapo-shirt-review.mapo-room-guide.xyz/sitemap.xml
